@@ -1,9 +1,9 @@
-#Simple Cookie
+# Simple Cookie
 [![Powered by Dockwa](https://raw.githubusercontent.com/dockwa/openpixel/dockwa/by-dockwa.png)](https://engineering.dockwa.com/)
 
 This is a very simple, super lightweight javascript cookie class to be used however you like. It has 4 simple methods...
 
-###Set Cookie
+### Set Cookie
 ```javascript
 Cookie.set('name', 'value')
 ```
@@ -20,21 +20,21 @@ The path can also be optionally set as follows.
 Cookie.set('name', 'value', 60*24*365, document.location)
 ```
 
-###Get Cookie
+### Get Cookie
 ```javascript
 Cookie.get('name')
 ```
 
 Returns the value of the cookie if it exits, 'undefined' if it does not exists.
 
-###Remove Cookie
+### Remove Cookie
 ```javascript
 Cookie.remove('name')
 ```
 
 Removes the cookie with that name if it is set.
 
-###Exists Cookie
+### Exists Cookie
 ```javascript
 Cookie.exists('name')
 ```
