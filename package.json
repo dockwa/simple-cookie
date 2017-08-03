@@ -1,5 +1,5 @@
 {
-  "name": "simple-cookie",
+  "name": "simple-cookie-js",
   "version": "1.0.0",
   "description": "A very simple, super lightweight javascript cookie class. ",
   "main": "simple-cookie.js",

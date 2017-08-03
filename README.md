@@ -1,4 +1,8 @@
 # Simple Cookie
+
+[![npm](https://img.shields.io/npm/dt/simple-cookie-js.svg)](https://www.npmjs.com/package/simple-cookie-js)
+[![npm](https://img.shields.io/npm/v/simple-cookie-js.svg)](https://www.npmjs.com/package/simple-cookie-js)
+
 [![Powered by Dockwa](https://raw.githubusercontent.com/dockwa/openpixel/dockwa/by-dockwa.png)](https://engineering.dockwa.com/)
 
 This is a very simple, super lightweight javascript cookie class to be used however you like. It has 4 simple methods...
