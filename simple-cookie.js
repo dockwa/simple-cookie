@@ -1,5 +1,4 @@
 var Cookie = {
-
   set: function(name, value, minutes) {
     var path = arguments.length <= 3 || arguments[3] === undefined ? "/" : arguments[3];
 
@@ -31,5 +30,4 @@ var Cookie = {
   exists: function(name) {
     return typeof this.get(name) !== "undefined";
   }
-
 }
